@@ -1,5 +1,8 @@
 {
     "besm-2-7": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
         "atmos": {
             "initializedFrom": ""
         }, 
@@ -13,9 +16,6 @@
             "initializedFrom": ""
         }, 
         "seaice": {
-            "initializedFrom": ""
-        }, 
-        "toplevel": {
             "initializedFrom": ""
         }
     }
