@@ -1,0 +1,34 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "inpe", 
+    "seedingSource": "Spreadsheet", 
+    "content": [
+        {
+            "mnemonic": "CPTEC-INPE", 
+            "name": "Center for weather forecast and Climate studies - National Institute for Space Research", 
+            "is_organisation": false, 
+            "address_postal": "Rod. Pres. Dutra km39, Cahcoeira Paulista, SP - Brasil - CEP 12630-000", 
+            "address_email": "besm@inpe.br", 
+            "url": "http://www.inpe.br/besm/", 
+            "orcid": null
+        }, 
+        {
+            "mnemonic": "Andr\u00e9-Lanfer", 
+            "name": "Andr\u00e9 Lanfer", 
+            "is_organisation": false, 
+            "address_postal": "Rod. Pres. Dutra km39, Cahcoeira Paulista, SP - Brasil - CEP 12630-001", 
+            "address_email": "andre.lanfer@inpe.br", 
+            "url": "http://www.inpe.br/besm/equipe/", 
+            "orcid": "https://orcid.org/0000-0001-8719-8045"
+        }, 
+        {
+            "mnemonic": "Paulo Nobre", 
+            "name": "Paulo Nobre", 
+            "is_organisation": false, 
+            "address_postal": "Rod. Pres. Dutra km39, Cahcoeira Paulista, SP - Brasil - CEP 12630-002", 
+            "address_email": "paulo.nobre@inpe.br", 
+            "url": "http://www.inpe.br/besm/equipe/", 
+            "orcid": null
+        }
+    ]
+}
