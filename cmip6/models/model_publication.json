@@ -2,19 +2,19 @@
     "besm-2-9": {
         "toplevel": {
             "publish": "off"
-        },
+        }, 
         "atmos": {
             "publish": "off"
-        },
+        }, 
         "land": {
             "publish": "off"
-        },
+        }, 
         "ocean": {
             "publish": "off"
-        },
+        }, 
         "ocnbgchem": {
             "publish": "off"
-        },
+        }, 
         "seaice": {
             "publish": "off"
         }
